@@ -27,7 +27,7 @@ void Booking_Summary () ;
 
 struct Seating_arrangements 
 {
-    int Timing [3][15] ;
+    int Timing [3][16] ;
     
 } ptr [3] ;  
 
