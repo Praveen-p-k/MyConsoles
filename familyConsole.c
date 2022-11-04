@@ -1,10 +1,11 @@
+/*THIS IS LIKE A MATRIMONY APP, I HAVE GIVEN SOME FAMILY RELATION LIKE -> (HIS/HER NAME, GENDER, FATHER NAME, MOTHER NAME) */
+/*IT WILL GIVE YOU YOUR'S COUSIN'S FROM YOUR RELATION */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-#define yellow printf("\033[0;33m")
-#define blue printf("\033[0;34m")
-#define white printf("\033[0;37m")
 
 int got_match = 0;
 
